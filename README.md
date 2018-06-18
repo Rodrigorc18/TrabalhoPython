@@ -1,0 +1,2 @@
+# TrabalhoPython
+Simulador de Cartas
